@@ -1,0 +1,9 @@
+jupyter
+pandas
+numpy
+torch
+tensorboard
+scipy
+argparse
+nltk
+gensim

@@ -1,0 +1,4 @@
+*_venv
+/template_code
+/.ipynb_checkpoints
+secrets.txt
