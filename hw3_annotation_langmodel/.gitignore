@@ -3,3 +3,4 @@ hw3_venv/
 data/
 GreatLakes\ ARC-TS\ Login.pdf
 wandb/
+secrets.py
